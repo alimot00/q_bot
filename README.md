@@ -15,8 +15,8 @@ Clone the bot
 
 ```bash
 cd $HOME
-git clone https://github.com/Imandaneshi/jack-telegram-bot.git
-cd jack-telegram-bot
+git clone https://github.com/alimot00/q_bot.git
+cd q_bot
 ```
 Set telegram_api_key in config.moon file to the token you received from the Botfather.
 
@@ -46,16 +46,6 @@ sudo apt-get install lua5.1
 sudo apt-get remove lua5.2
 ```
 
-#Support and development
-
-Join our bot development group by sending /join 1047524697 to @TeleSeed or just search username [@seed_dev](https://telegram.me/seed_dev) and join
-
 # Special thanks to
 
-[Alphonse](https://github.com/hmon)
-
-[topkecleon](https://github.com/topkecleon)
-
-[Yago](https://github.com/yagop)
-
-[Tiago Danin](https://github.com/TiagoDanin)
+[ALIMOT007](https://github.com/alimot00)
