@@ -1,8 +1,7 @@
 _ =
   telegram_api_key: ""--Your telegram bot api key
   admins: {
-    110626080
-    123456789
+    109005235
     --your id
   }
   plugs: {
